@@ -1,5 +1,6 @@
 ### Hi there 👋 i'm Cassiopée, I working on cybersecurity projects 
-⚡ Fun fact you can find me in https://www.linkedin.com/in/cassiop%C3%A9e-landais-3b317a1a4/
+⚡ Fun fact you can find me in www.linkedin.com/in/cassiopée-landais
+
 <!--
 **cassiopee-landais/cassiopee-landais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
